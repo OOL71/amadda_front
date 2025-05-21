@@ -14,7 +14,7 @@ import { themeColors, categories, groups } from "../Colors";
 import styles from "../styles/LoginScreenStyles";
 
 const LoginScreen = () => {
-  return <View></View>;
+  return <View>sdfasdfasdf</View>;
 };
 
 export default LoginScreen;
